@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Shahinur Islam @shahinalam6644
 - 👀 I’m interested in new technology
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning laravel and codeigniter
 - 💞️ I’m looking to collaborate on various laravel and wordpress projects
 - 📫 How to reach me fb/md.shahinur.islam.96
 
